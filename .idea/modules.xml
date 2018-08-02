@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/google-zxing/google-zxing.iml" filepath="$PROJECT_DIR$/google-zxing/google-zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-helloWorld/springboot-helloWorld.iml" filepath="$PROJECT_DIR$/springboot-helloWorld/springboot-helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-hibernate-jpa/springboot-hibernate-jpa.iml" filepath="$PROJECT_DIR$/springboot-hibernate-jpa/springboot-hibernate-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-scheduling/springboot-scheduling.iml" filepath="$PROJECT_DIR$/springboot-scheduling/springboot-scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study.iml" filepath="$PROJECT_DIR$/springboot-study.iml" />
+    </modules>
+  </component>
+</project>
