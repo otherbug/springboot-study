@@ -12,6 +12,7 @@
         <module name="springboot-hibernate-pa" />
         <module name="springboot-scheduling" />
         <module name="springboot-study" />
+        <module name="wechat-official-account" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="springboot-hibernate-pa" target="1.5" />
       <module name="springboot-scheduling" target="1.8" />
       <module name="springboot-study" target="1.5" />
+      <module name="wechat-official-account" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

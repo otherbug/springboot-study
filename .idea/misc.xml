@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/springboot-hibernate-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-scheduling/pom.xml" />
         <option value="$PROJECT_DIR$/google-zxing/pom.xml" />
+        <option value="$PROJECT_DIR$/wechat-official-account/pom.xml" />
       </list>
     </option>
   </component>
