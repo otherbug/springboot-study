@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/google-zxing/google-zxing.iml" filepath="$PROJECT_DIR$/google-zxing/google-zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qitatongxue/qitatongxue.iml" filepath="$PROJECT_DIR$/qitatongxue/qitatongxue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-druid/springboot-druid.iml" filepath="$PROJECT_DIR$/springboot-druid/springboot-druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloWorld/springboot-helloWorld.iml" filepath="$PROJECT_DIR$/springboot-helloWorld/springboot-helloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-hibernate-jpa/springboot-hibernate-jpa.iml" filepath="$PROJECT_DIR$/springboot-hibernate-jpa/springboot-hibernate-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-scheduling/springboot-scheduling.iml" filepath="$PROJECT_DIR$/springboot-scheduling/springboot-scheduling.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-study.iml" filepath="$PROJECT_DIR$/springboot-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spriongboot-shiro/spriongboot-shiro.iml" filepath="$PROJECT_DIR$/spriongboot-shiro/spriongboot-shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/wechat-official-account/wechat-official-account.iml" filepath="$PROJECT_DIR$/wechat-official-account/wechat-official-account.iml" />
     </modules>
   </component>

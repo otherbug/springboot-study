@@ -7,21 +7,29 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="google-zxing" />
+        <module name="qitatongxue" />
+        <module name="springboot-druid" />
         <module name="springboot-helloWorld" />
         <module name="springboot-hibernate-jpa" />
         <module name="springboot-hibernate-pa" />
+        <module name="springboot-rabbitmq" />
         <module name="springboot-scheduling" />
         <module name="springboot-study" />
+        <module name="spriongboot-shiro" />
         <module name="wechat-official-account" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="google-zxing" target="1.8" />
+      <module name="qitatongxue" target="1.8" />
+      <module name="springboot-druid" target="1.8" />
       <module name="springboot-helloWorld" target="1.8" />
       <module name="springboot-hibernate-jpa" target="1.8" />
       <module name="springboot-hibernate-pa" target="1.5" />
+      <module name="springboot-rabbitmq" target="1.8" />
       <module name="springboot-scheduling" target="1.8" />
       <module name="springboot-study" target="1.5" />
+      <module name="spriongboot-shiro" target="1.8" />
       <module name="wechat-official-account" target="1.8" />
     </bytecodeTargetLevel>
   </component>

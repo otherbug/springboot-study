@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/springboot-scheduling/pom.xml" />
         <option value="$PROJECT_DIR$/google-zxing/pom.xml" />
         <option value="$PROJECT_DIR$/wechat-official-account/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-druid/pom.xml" />
+        <option value="$PROJECT_DIR$/spriongboot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/qitatongxue/pom.xml" />
       </list>
     </option>
   </component>
