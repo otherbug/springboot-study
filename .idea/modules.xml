@@ -9,8 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-hibernate-jpa/springboot-hibernate-jpa.iml" filepath="$PROJECT_DIR$/springboot-hibernate-jpa/springboot-hibernate-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-scheduling/springboot-scheduling.iml" filepath="$PROJECT_DIR$/springboot-scheduling/springboot-scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/spriongboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/spriongboot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-springsecurity/springboot-springsecurity.iml" filepath="$PROJECT_DIR$/springboot-springsecurity/springboot-springsecurity.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-study.iml" filepath="$PROJECT_DIR$/springboot-study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spriongboot-shiro/spriongboot-shiro.iml" filepath="$PROJECT_DIR$/spriongboot-shiro/spriongboot-shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/wechat-official-account/wechat-official-account.iml" filepath="$PROJECT_DIR$/wechat-official-account/wechat-official-account.iml" />
     </modules>
   </component>

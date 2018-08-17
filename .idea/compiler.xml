@@ -14,6 +14,8 @@
         <module name="springboot-hibernate-pa" />
         <module name="springboot-rabbitmq" />
         <module name="springboot-scheduling" />
+        <module name="springboot-shiro" />
+        <module name="springboot-springsecurity" />
         <module name="springboot-study" />
         <module name="spriongboot-shiro" />
         <module name="wechat-official-account" />
@@ -28,6 +30,8 @@
       <module name="springboot-hibernate-pa" target="1.5" />
       <module name="springboot-rabbitmq" target="1.8" />
       <module name="springboot-scheduling" target="1.8" />
+      <module name="springboot-shiro" target="1.8" />
+      <module name="springboot-springsecurity" target="1.8" />
       <module name="springboot-study" target="1.5" />
       <module name="spriongboot-shiro" target="1.8" />
       <module name="wechat-official-account" target="1.8" />
