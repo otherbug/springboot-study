@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="727be98a-5ffe-4e47-84ca-d7e11d715bce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/driver/mysql-connector-java-5.1.21.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/bean/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/bean/MenuMeta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/bean/Role.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/bean/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/config/AuthenticationAccessDeniedHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/config/UrlAccessDecisionManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/config/UrlFilterInvocationSecurityMetadataSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/config/WebMvcConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/config/WebSecurityConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/controller/HomeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/mapper/BaseMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/mapper/MenuMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/mapper/RoleMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/service/MenuService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/service/impl/MenuServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/java/priv/ys/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/generatorConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/mapper/MenuMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/mapper/RoleMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/mybatis-config.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/Za.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/补充.md" afterPath="$PROJECT_DIR$/补充.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/pom.xml" afterPath="$PROJECT_DIR$/springboot-shiro/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/Application.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/Application.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/config/MyShiroRealm.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/config/MyShiroRealm.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/config/ShiroConfiguration.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/config/ShiroConfiguration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/controller/HomeController.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/controller/HomeController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/dao/UserInfoDao.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/dao/UserInfoDao.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/entity/SysPermission.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/entity/SysPermission.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/entity/SysRole.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/entity/SysRole.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/entity/UserInfo.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/entity/UserInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/service/UserInfoService.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/service/UserInfoService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/java/priv/ys/service/imp/UserInfoServiceImp.java" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/service/imp/UserInfoServiceImp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/resources/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/resources/templates/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/resources/templates/login.html" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/resources/templates/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/resources/templates/userInfo.html" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/resources/templates/userInfo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/src/main/resources/templates/userInfoAdd.html" afterPath="$PROJECT_DIR$/springboot-shiro/src/main/resources/templates/userInfoAdd.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/application.yml" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/Application.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/Application.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/Za.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/Za.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/config/MyShiroRealm.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/config/MyShiroRealm.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/config/ShiroConfiguration.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/config/ShiroConfiguration.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/controller/HomeController.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/controller/HomeController.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/dao/UserInfoDao.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/dao/UserInfoDao.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/entity/SysPermission.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/entity/SysPermission.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/entity/SysRole.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/entity/SysRole.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/entity/UserInfo.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/entity/UserInfo.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/service/UserInfoService.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/service/UserInfoService.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/priv/ys/service/imp/UserInfoServiceImp.class" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/priv/ys/service/imp/UserInfoServiceImp.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/templates/index.html" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/templates/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/templates/login.html" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/templates/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/templates/userInfo.html" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/templates/userInfo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spriongboot-shiro/target/classes/templates/userInfoAdd.html" afterPath="$PROJECT_DIR$/springboot-shiro/target/classes/templates/userInfoAdd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot-springsecurity/src/main/resources/sql/springboot_study_springsecutity.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -140,15 +80,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot-springsecurity/src/main/resources/mapper/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="69" lean-forward="false" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+            <state relative-caret-position="430">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <marker date="1534498894346" expanded="false" signature="1365:1480" ph="..." />
                 <marker date="1534498894346" expanded="true" signature="1548:1601" ph="select * fro... user" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springboot_study_springsecutity.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-springsecurity/src/main/resources/sql/springboot_study_springsecutity.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -397,8 +347,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="799" />
-    <option name="y" value="47" />
+    <option name="x" value="361" />
+    <option name="y" value="21" />
     <option name="width" value="1288" />
     <option name="height" value="1078" />
   </component>
@@ -522,15 +472,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springboot-study-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-study-master" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-springsecurity" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -564,11 +505,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\springboot-study-master\springboot-springsecurity\src\main\resources\sql" />
       <recent name="E:\IDEA\springboot-study-master\springboot-springsecurity\src\main\resources" />
       <recent name="E:\IDEA\springboot-study-master\springboot-springsecurity\src\main\java\priv\ys\bean" />
       <recent name="E:\IDEA\springboot-study-master\springboot-springsecurity\src\main\java\priv\ys\repository" />
       <recent name="E:\IDEA\springboot-study-master\springboot-springsecurity\src\main\resources\templates" />
-      <recent name="E:\IDEA\springboot-study-master\springboot-springsecurity\src\main\resources\static\css" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="priv.ys.config" />
@@ -852,7 +793,7 @@
       <workItem from="1533863048933" duration="16809000" />
       <workItem from="1534295311438" duration="24357000" />
       <workItem from="1534406264676" duration="4076000" />
-      <workItem from="1534484480826" duration="13270000" />
+      <workItem from="1534484480826" duration="13625000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1533092568841</created>
@@ -872,11 +813,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132920000" />
+    <option name="totallyTimeSpent" value="133275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="799" y="47" width="1288" height="1078" extended-state="0" />
-    <editor active="true" />
+    <frame x="361" y="21" width="1288" height="1078" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -893,11 +833,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30341882" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3093682" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26797387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31270358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4771987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.49463806" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32799146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -972,13 +912,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot-shiro/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-shiro/src/main/java/priv/ys/controller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
@@ -1300,7 +1233,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1482,12 +1415,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-springsecurity/src/main/resources/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="69" lean-forward="false" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+        <state relative-caret-position="430">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <marker date="1534498894346" expanded="false" signature="1365:1480" ph="..." />
             <marker date="1534498894346" expanded="true" signature="1548:1601" ph="select * fro... user" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-springsecurity/src/main/resources/sql/springboot_study_springsecutity.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
